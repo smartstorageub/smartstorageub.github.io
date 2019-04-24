@@ -65,7 +65,7 @@ animation: mover is infinite alternate;
     float: right;
     
  border-radius: 1.5rem;
-     border: none;
+    border: none;
     width: 120px;
     background-image: linear-gradient(to right,#006666,#00b3b3 );
     font-weight: 600;
